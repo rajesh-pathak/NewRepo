@@ -1,5 +1,5 @@
 package com.mo;
-
+/*sfdgawersvas*/
 
 import org.hibernate.Session;
 import org.hibernate.SessionFactory;
